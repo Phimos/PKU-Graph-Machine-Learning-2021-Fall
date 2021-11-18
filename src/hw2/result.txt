@@ -1,0 +1,150 @@
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8318
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8373
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8429 **
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8244
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8170
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8318
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8318
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8373
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8244
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8189
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8318
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8318
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8429 ** 
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8336
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8281
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8318
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8318
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8318
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8299
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8336
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8318
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8318
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8318
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8299
+Namespace(context_size=10, dataset='cora', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.8466
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6334
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6304
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6212
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.5920
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6012
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6334
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6334
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6304
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6043
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6380 **
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6334
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6334
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6120
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6227
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6227
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6334
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6334
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6334
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.5997
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6334
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6334
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6334
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6334
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.5997
+Namespace(context_size=10, dataset='citeseer', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.6396
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9092
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9085
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9118
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9131 **
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.25, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9072
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9092
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9092
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9085
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9072
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=0.5, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9020
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9092
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9092
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9085
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9007
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=1.0, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9124
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9092
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9092
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9092
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9131
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=2.0, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9072
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=0.25, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9092
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=0.5, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9092
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=1.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9092
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=2.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9131
+Namespace(context_size=10, dataset='amazon_photo', early_stop=10, embedding_dim=128, feature='embeddings', gnn='node2vec', hidden_dim=64, num_negative_samples=1, p=4.0, q=4.0, seed=42, walk_length=20, walks_per_node=10)
+Test Accuracy: 0.9059
