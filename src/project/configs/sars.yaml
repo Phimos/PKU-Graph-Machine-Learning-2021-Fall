@@ -1,0 +1,26 @@
+objective: classification
+
+dataset: sars
+data_dir: ./data
+mode: train
+device: cuda
+
+num_outputs: 52
+num_targets: 13
+num_classes: 4
+
+batch_size: 512
+epochs: 100
+lr: 0.003
+weight_decay: 0.00001
+metric_direction: max
+early_stop_count: 200
+
+hidden_channels: 200
+num_layers: 3
+num_timesteps: 3
+dropout: 0.2
+
+model_path: ./checkpoints/sars.pth
+submission_path: ./answer/sars-pred.csv
+
